@@ -37,4 +37,3 @@ Please ensure you have enough storage and the software to handle large video fil
 - **JSON Files**: Any standard JSON viewer or editor (e.g., Visual Studio Code with a JSON extension).
 - **MP4 Files**: Any standard media player that supports MP4 format.
 - **XLSX Files**: Microsoft Excel or any compatible spreadsheet software.
-- **JPG Files**: Any standard image viewer.
